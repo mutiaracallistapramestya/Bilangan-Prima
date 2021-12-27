@@ -29,5 +29,4 @@ int main(){
 	
 	}while (x<y);
 	
- 
 }
